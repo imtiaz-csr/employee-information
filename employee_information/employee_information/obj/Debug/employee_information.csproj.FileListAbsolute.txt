@@ -1,0 +1,7 @@
+G:\programming\Git\employee-information\employee_information\employee_information\bin\Debug\employee_information.exe.config
+G:\programming\Git\employee-information\employee_information\employee_information\bin\Debug\employee_information.exe
+G:\programming\Git\employee-information\employee_information\employee_information\bin\Debug\employee_information.pdb
+G:\programming\Git\employee-information\employee_information\employee_information\obj\Debug\employee_information.csproj.AssemblyReference.cache
+G:\programming\Git\employee-information\employee_information\employee_information\obj\Debug\employee_information.csproj.CoreCompileInputs.cache
+G:\programming\Git\employee-information\employee_information\employee_information\obj\Debug\employee_information.exe
+G:\programming\Git\employee-information\employee_information\employee_information\obj\Debug\employee_information.pdb
